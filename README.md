@@ -1,7 +1,7 @@
 
 # Nexa Insights Sales Performance
 
-### Dashboard Link : "C:\nexa_insights_sales_performance.pbix"
+### Dashboard Link : ["C:\nexa_insights_sales_performance.pbix"](https://app.powerbi.com/groups/me/reports/ef20b139-79bd-4f83-bbd6-69c308e0fee7?redirectedFromSignup=1&experience=power-bi)
 Objective: 
 
 The primary objective of this project is to analyze sales data to identify trends improve profitability and provide insights on key business performance metrics The tools I have used in this project is Excel , SQL  ,and Power BI.
