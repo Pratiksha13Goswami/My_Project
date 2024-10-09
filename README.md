@@ -1,5 +1,4 @@
 
-
 # Nexa Insights Sales Performance
 
 ### Dashboard Link : "C:\nexa_insights_sales_performance.pbix"
